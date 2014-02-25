@@ -4,7 +4,9 @@
 3. Zapala lampę (diodę) po podaniu sygnału z wyłącznika (symulacja przycisku dzwonkowego)
 4. Gasi lampę (diodę) po podaniu sygnału z wyłącznika (symulacja przycisku dzwonkowego)
 
-
+************Zmiana sposobu zarządzania przyciskami***********
+Funkcja pinMode(pin, INPUT_PULLUP);
+//DO SPRAWDZENIA
 */
 
 #define diodaLed 13
